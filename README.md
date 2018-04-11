@@ -2,17 +2,23 @@
 Collateral associated with meetings
 
 
-| *2018* | Presentation files/links                        |
-|--------|-------------------------------------------------|
-| Feb 28 | [andygwebber/Tensorflow_lessons](https://github.com/andygwebber/Tensorflow_lessons)   |
-| Feb 13 | [Training Deep Neural Networks.pptx](Training%20Deep%20Neural%20Networks.pptx) |
-| Jan 31 | [Activation Functions.pptx](Activation%20Functions.pptx)                       |
+| *2018* | Presentation files/links                                                                                  |
+|--------|-----------------------------------------------------------------------------------------------------------|
+| Apr 11 |                                                                                                           |
+| Mar 28 | [CNN Architectures (1).pptx](CNN%20Architectures%20(1).pptx)                                              |
+|        | [DLChallenges.pptx](DL%20Challenges.pptx)                                                                 |
+| Mar 14 | [CNN Architectures.pptx](CNN%20Architectures%20.pptx),                                                    |
+|        | [Convolutional Neural Networks.pptx](Convolutional%20Neural%20Networks.pptx)                              |
+|        | [Regularization.pptx](Regularization.pptx)                                                                |
+| Feb 28 | [andygwebber/Tensorflow_lessons](https://github.com/andygwebber/Tensorflow_lessons)                       |
+| Feb 13 | [Training Deep Neural Networks.pptx](Training%20Deep%20Neural%20Networks.pptx)                            |
+| Jan 31 | [Activation Functions.pptx](Activation%20Functions.pptx)                                                  |
 |        | [Introduction to Artificial Neural Networks.pptx](Introduction%20to%20Artificia%20Neural%20Networks.pptx) |
-| Jan 17 | [Gradient Descent.pptx](Gradient%20Descent.pptx)                           |
-|        | [Welcome Jan 17, 2018.pptx](Welcome%20Jan%2017,%202018.pptx)                       |
-| Jan 3  | [09_up_and_running_with_tensorflow.ipynb](09%20up%20and%20running%20with%20tensorflow.ipynb)         |
-|        | [Building and Maintaining ML Systems.pptx](Building%20and%20Maintaining%20ML%20Systems.pptx)        |
-|        | [Introduction to Tensorflow (1).pptx](Introduction%20to%20Tensorflow%20(1).pptx)             |
+| Jan 17 | [Gradient Descent.pptx](Gradient%20Descent.pptx)                                                          |
+|        | [Welcome Jan 17, 2018.pptx](Welcome%20Jan%2017,%202018.pptx)                                              |
+| Jan 3  | [09_up_and_running_with_tensorflow.ipynb](09%20up%20and%20running%20with%20tensorflow.ipynb)              |
+|        | [Building and Maintaining ML Systems.pptx](Building%20and%20Maintaining%20ML%20Systems.pptx)              |
+|        | [Introduction to Tensorflow (1).pptx](Introduction%20to%20Tensorflow%20(1).pptx)                          |
 
 | *2017* | Presentation files/links                         |
 |--------|--------------------------------------------------|
