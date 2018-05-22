@@ -9,9 +9,9 @@ Collateral associated with meetings
 |        | [Introduction to NLP.pptx](Introduction%20to%20NLP.pptx)                                                  |
 |        | [Oscillator.pptx](Oscillator.pptx)                                                                        |
 | Apr 25 | [Inception.pptx](Inception.pptx)                                                                          |
-|        | [Microsoft AI-ML Interview.pptx ](Microsoft%20AI-ML%Interview.pptx) |
-|        | [Recurrent Neural Networks (2).pptx](Recurrent%20Neural%20Networks%20(2).pptx)|
-| Apr 11 |                                                                                                           |
+|        | [Microsoft AI-ML Interview.pptx ](Microsoft%20AI-ML%Interview.pptx)                                       |
+|        | [Recurrent Neural Networks (2).pptx](Recurrent%20Neural%20Networks%20(2).pptx)                            |
+| Apr 11 | [Recurrent Neural Networks.pptx](Recurrent%20Neural%20Networks.pptx)                                  |
 | Mar 28 | [CNN Architectures (1).pptx](CNN%20Architectures%20(1).pptx)                                              |
 |        | [DLChallenges.pptx](DL%20Challenges.pptx)                                                                 |
 | Mar 14 | [CNN Architectures.pptx](CNN%20Architectures%20.pptx),                                                    |
