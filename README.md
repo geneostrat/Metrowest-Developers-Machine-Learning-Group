@@ -4,7 +4,7 @@ Collateral associated with meetings
 
 | *2018* | Presentation files/links                                                                                  |
 |--------|-----------------------------------------------------------------------------------------------------------|
-| May 23 |                                                                                                           |
+| May 23 | [Hidden Markov Models ](https://github.com/seohara1955/Presentations/blob/master/Hidden%20Markov%20Models.pdf) | |                                                    |
 | May 9  | [Attention-based Models.pptx](Attention-based%20Models.pptx)                                              |
 |        | [Introduction to NLP.pptx](Introduction%20to%20NLP.pptx)                                                  |
 |        | [Oscillator.pptx](Oscillator.pptx)                                                                        |
