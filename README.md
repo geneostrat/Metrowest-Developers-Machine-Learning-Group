@@ -2,30 +2,31 @@
 Collateral associated with meetings
 
 
-| *2018* | Presentation files/links                                                                                  |
-|--------|-----------------------------------------------------------------------------------------------------------|
-| May 23 | [Hidden Markov Models ](https://github.com/seohara1955/Presentations/blob/master/Hidden%20Markov%20Models.pdf) | |                                                    |
-| May 9  | [Attention-based Models.pptx](Attention-based%20Models.pptx)                                              |
-|        | [Introduction to NLP.pptx](Introduction%20to%20NLP.pptx)                                                  |
-|        | [Oscillator.pptx](Oscillator.pptx)                                                                        |
-| Apr 25 | [Inception.pptx](Inception.pptx)                                                                          |
-|        | [Microsoft AI-ML Interview.pptx ](Microsoft%20AI-ML%Interview.pptx)                                       |
-|        | [Recurrent Neural Networks (2).pptx](Recurrent%20Neural%20Networks%20(2).pptx)                            |
-| Apr 11 | [Recurrent Neural Networks.pptx](Recurrent%20Neural%20Networks.pptx)                                  |
-| Mar 28 | [CNN Architectures (1).pptx](CNN%20Architectures%20(1).pptx)                                              |
-|        | [DLChallenges.pptx](DL%20Challenges.pptx)                                                                 |
-| Mar 14 | [CNN Architectures.pptx](CNN%20Architectures%20.pptx),                                                    |
-|        | [Convolutional Neural Networks.pptx](Convolutional%20Neural%20Networks.pptx)                              |
-|        | [Regularization.pptx](Regularization.pptx)                                                                |
-| Feb 28 | [andygwebber/Tensorflow_lessons](https://github.com/andygwebber/Tensorflow_lessons)                       |
-| Feb 13 | [Training Deep Neural Networks.pptx](Training%20Deep%20Neural%20Networks.pptx)                            |
-| Jan 31 | [Activation Functions.pptx](Activation%20Functions.pptx)                                                  |
-|        | [Introduction to Artificial Neural Networks.pptx](Introduction%20to%20Artificia%20Neural%20Networks.pptx) |
-| Jan 17 | [Gradient Descent.pptx](Gradient%20Descent.pptx)                                                          |
-|        | [Welcome Jan 17, 2018.pptx](Welcome%20Jan%2017,%202018.pptx)                                              |
-| Jan 3  | [09_up_and_running_with_tensorflow.ipynb](09%20up%20and%20running%20with%20tensorflow.ipynb)              |
-|        | [Building and Maintaining ML Systems.pptx](Building%20and%20Maintaining%20ML%20Systems.pptx)              |
-|        | [Introduction to Tensorflow (1).pptx](Introduction%20to%20Tensorflow%20(1).pptx)                          |
+| *2018*  | Presentation files/links                                                                                       |   |   |
+|---------|----------------------------------------------------------------------------------------------------------------|---|---|
+| July 11 | [Reinforcement Learning Q-Learning.pptx](Reinforcement Learning Q-Learning.pptx)                               |   |   |
+| May 23  | [Hidden Markov Models ](https://github.com/seohara1955/Presentations/blob/master/Hidden%20Markov%20Models.pdf) |   |   |
+| May 9   | [Attention-based Models.pptx](Attention-based%20Models.pptx)                                                   |   |   |
+|         | [Introduction to NLP.pptx](Introduction%20to%20NLP.pptx)                                                       |   |   |
+|         | [Oscillator.pptx](Oscillator.pptx)                                                                             |   |   |
+| Apr 25  | [Inception.pptx](Inception.pptx)                                                                               |   |   |
+|         | [Microsoft AI-ML Interview.pptx ](Microsoft%20AI-ML%Interview.pptx)                                            |   |   |
+|         | [Recurrent Neural Networks (2).pptx](Recurrent%20Neural%20Networks%20(2).pptx)                                 |   |   |
+| Apr 11  | [Recurrent Neural Networks.pptx](Recurrent%20Neural%20Networks.pptx)                                           |   |   |
+| Mar 28  | [CNN Architectures (1).pptx](CNN%20Architectures%20(1).pptx)                                                   |   |   |
+|         | [DLChallenges.pptx](DL%20Challenges.pptx)                                                                      |   |   |
+| Mar 14  | [CNN Architectures.pptx](CNN%20Architectures%20.pptx),                                                         |   |   |
+|         | [Convolutional Neural Networks.pptx](Convolutional%20Neural%20Networks.pptx)                                   |   |   |
+|         | [Regularization.pptx](Regularization.pptx)                                                                     |   |   |
+| Feb 28  | [andygwebber/Tensorflow_lessons](https://github.com/andygwebber/Tensorflow_lessons)                            |   |   |
+| Feb 13  | [Training Deep Neural Networks.pptx](Training%20Deep%20Neural%20Networks.pptx)                                 |   |   |
+| Jan 31  | [Activation Functions.pptx](Activation%20Functions.pptx)                                                       |   |   |
+|         | [Introduction to Artificial Neural Networks.pptx](Introduction%20to%20Artificia%20Neural%20Networks.pptx)      |   |   |
+| Jan 17  | [Gradient Descent.pptx](Gradient%20Descent.pptx)                                                               |   |   |
+|         | [Welcome Jan 17, 2018.pptx](Welcome%20Jan%2017,%202018.pptx)                                                   |   |   |
+| Jan 3   | [09_up_and_running_with_tensorflow.ipynb](09%20up%20and%20running%20with%20tensorflow.ipynb)                   |   |   |
+|         | [Building and Maintaining ML Systems.pptx](Building%20and%20Maintaining%20ML%20Systems.pptx)                   |   |   |
+|         | [Introduction to Tensorflow (1).pptx](Introduction%20to%20Tensorflow%20(1).pptx)                               |   |   |
 
 | *2017* | Presentation files/links                         |
 |--------|--------------------------------------------------|
