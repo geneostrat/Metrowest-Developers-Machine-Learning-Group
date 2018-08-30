@@ -6,9 +6,9 @@ Collateral associated with meetings
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | July 25 | Scott O'Hara's slides on [Evaluating Classifers](https://github.com/seohara1955/Presentations/blob/master/Evaluating%20Classifiers.pdf) |
 |         | Scott's [accompanying Jupyter notebook](https://github.com/seohara1955/Presentations/blob/master/Evaluating%20Classifiers.ipynb)        |
-| July 11 | [Reinforcement Learning Q-Learning.pptx](2018/05/Reinforcement Learning Q-Learning.pptx)                                                |
+| July 11 | [Reinforcement Learning Q-Learning.pptx](2018/05/Reinforcement%20Learning%20Q-Learning.pptx)                                                |
 | May 23  | [Hidden Markov Models ](https://github.com/seohara1955/Presentations/blob/master/Hidden%20Markov%20Models.pdf)                          |
-| May 9   | [Attention-based Models.pptx](2018/05/Attention-based%20Models.pptx)                                                                    |
+| May 9   | [Attention-based Models.pptx](https://github.com/geneostrat/Metrowest-Machine-Learning-Group/blob/master/2018/05/Attention-based%20Models.pptx)                                                                    |
 |         | [Introduction to NLP.pptx](2018/05/Introduction%20to%20NLP.pptx)                                                                        |
 |         | [Oscillator.pptx](2018/05/Oscillator.pptx)                                                                                              |
 | Apr 25  | [Inception.pptx](2018/04/Inception.pptx)                                                                                                |
@@ -17,7 +17,7 @@ Collateral associated with meetings
 | Apr 11  | [Recurrent Neural Networks.pptx](2018/04/Recurrent%20Neural%20Networks.pptx)                                                            |
 | Mar 28  | [CNN Architectures (1).pptx](2018/03/CNN%20Architectures%20(1).pptx)                                                                    |
 |         | [DLChallenges.pptx](2018/03/DL%20Challenges.pptx)                                                                                       |
-| Mar 14  | [CNN Architectures.pptx](2018/03/CNN%20Architectures.pptx),                                                                             |
+| Mar 14  | [CNN Architectures.pptx](2018/03/CNN%20Architectures.pptx)                                                                             |
 |         | [Convolutional Neural Networks.pptx](2018/03/Convolutional%20Neural%20Networks.pptx)                                                    |
 |         | [Regularization.pptx](2018/03/Regularization.pptx)                                                                                      |
 | Feb 28  | [andygwebber/Tensorflow_lessons](https://github.com/andygwebber/Tensorflow_lessons)                                                     |
