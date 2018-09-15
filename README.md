@@ -6,7 +6,8 @@ For more information about the group, see the [Meetup page](https://www.meetup.c
 
 | *2018*    | Presentation files/links                                                                                                                      |
 |-----------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| August 29 | Scott O'Hara's slides on [Markov Decision Trees](https://github.com/seohara1955/Presentations/blob/master/Markov%20Decision%20Processes.pdf) |
+| Sept 12   | Scott O'Hara's slides on [Model-based reinforcement learning](https://github.com/seohara1955/Presentations/blob/master/Model-based%20RL.pdf) |
+| August 29 | Scott O'Hara's slides on [Markov Decision Trees](https://github.com/seohara1955/Presentations/blob/master/Markov%20Decision%20Processes.pdf)  |
 | July 25   | Scott O'Hara's slides on [Evaluating Classifers](https://github.com/seohara1955/Presentations/blob/master/Evaluating%20Classifiers.pdf)       |
 |           | Scott's [accompanying Jupyter notebook](https://github.com/seohara1955/Presentations/blob/master/Evaluating%20Classifiers.ipynb)              |
 | July 11   | [Reinforcement Learning Q-Learning.pptx](2018/05/Reinforcement%20Learning%20Q-Learning.pptx)                                                  |
@@ -33,21 +34,24 @@ For more information about the group, see the [Meetup page](https://www.meetup.c
 |           | [Building and Maintaining ML Systems.pptx](2018/01/Building%20and%20Maintaining%20ML%20Systems.pptx)                                          |
 |           | [Introduction to Tensorflow (1).pptx](2018/01/Introduction%20to%20Tensorflow%20(1).pptx)                                                      |
 
-| *2017* | Presentation files/links                         |
-|--------|--------------------------------------------------|
+| *2017* | Presentation files/links                                                                                     |
+|--------|--------------------------------------------------------------------------------------------------------------|
 | Dec 13 | [pycon2017-optimizing-pandas-master-gene-mods.zip](2017/12/pycon2017-optimizing-pandas-master-gene-mods.zip) |
-|        | [Feature Extraction.pptx](2017/12/Feature%20Extraction.pptx)                          |
-|        | [Introduction to Tensorflow.pptx](2017/12/Introduction%20to%20Tensorflow.pptx)                  |
-|        | [Optimizing Pandas.pptx](2017/12/Optimizing%20Pandas.pptx)                           |
-|        | [Welcome.pptx](2017/12/Welcome.pptx)                                     |
-| Nov 29 | [Code Profiling.ipynb](2017/11/Code%20Profiling.ipynb)                             |
-|        | [Feature Extraction.ipynb](2017/11/Feature%20Extraction.ipynb)                         |
-|        | [Intermediate Python.ipynb](2017/11/Intermediate%20Python.ipynb)                        |
-| Nov 8  | [Classifiers.pptx](2017/11/Classifiers.pptx)                                 |
-|        | [Data Conditioning.pptx](2017/11/Data%20Conditioning.pptx)                           |
-|        | [Introduction to Python.ipynb](2017/11/Introduction%20to%20Python.ipynb)                     |
-|        | [sklearn Datasets.ipynb](2017/11/sklearn%20Datasets.ipynb)                           |
-|        | [sklearn utils.ipynb](2017/11/sklearn%20utils.ipynb)                              |
-| Oct 25 | [MD-MLG - Machine Learning Introduction.pptx](2017/10/MD-MLG%20Machine%20Learning%20Introduction.pptx)        |
-|        | [MD-MLG Welcome!.pptx](2017/10/MD-MLG%20Welcome!.pptx)                             |
-| Oct 11 | First meeting!                                   |
+|        | [Feature Extraction.pptx](2017/12/Feature%20Extraction.pptx)                                                 |
+|        | [Introduction to Tensorflow.pptx](2017/12/Introduction%20to%20Tensorflow.pptx)                               |
+|        | [Optimizing Pandas.pptx](2017/12/Optimizing%20Pandas.pptx)                                                   |
+|        | [Welcome.pptx](2017/12/Welcome.pptx)                                                                         |
+|        | [Simple Linear Regression in Python](https://github.com/sids86/ML_Simple_Linear_Regression)                  |
+| Nov 29 | [Code Profiling.ipynb](2017/11/Code%20Profiling.ipynb)                                                       |
+|        | [Feature Extraction.ipynb](2017/11/Feature%20Extraction.ipynb)                                               |
+|        | [Intermediate Python.ipynb](2017/11/Intermediate%20Python.ipynb)                                             |
+|        | [C/C++ Extension Module for Python](2017/11/C++%20Extension%20Module%20for%20Python.pptx)                    |
+|        | [More Python.pptx](2017/11/More%20Python.pptx)                                                               |
+| Nov 8  | [Classifiers.pptx](2017/11/Classifiers.pptx)                                                                 |
+|        | [Data Conditioning.pptx](2017/11/Data%20Conditioning.pptx)                                                   |
+|        | [Introduction to Python.ipynb](2017/11/Introduction%20to%20Python.ipynb)                                     |
+|        | [sklearn Datasets.ipynb](2017/11/sklearn%20Datasets.ipynb)                                                   |
+|        | [sklearn utils.ipynb](2017/11/sklearn%20utils.ipynb)                                                         |
+| Oct 25 | [MD-MLG - Machine Learning Introduction.pptx](2017/10/MD-MLG%20Machine%20Learning%20Introduction.pptx)       |
+|        | [MD-MLG Welcome!.pptx](2017/10/MD-MLG%20Welcome!.pptx)                                                       |
+| Oct 11 | First meeting!                                                                                               |
