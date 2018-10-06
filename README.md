@@ -12,7 +12,7 @@ For more information about the group, see the [Meetup page](https://www.meetup.c
 | July 25   | Scott O'Hara's slides on [Evaluating Classifers](https://github.com/seohara1955/Presentations/blob/master/Evaluating%20Classifiers.pdf)                     |
 |           | Scott's [accompanying Jupyter notebook](https://github.com/seohara1955/Presentations/blob/master/Evaluating%20Classifiers.ipynb)                            |
 | July 11   | [Reinforcement Learning Q-Learning.pptx](2018/05/Reinforcement%20Learning%20Q-Learning.pptx)                                                                |
-|           | Chris Stauffer's [Report on Conference on Computer Vision and Pattern Recognition 2018](https://drive.google.com/open?id=1TGZKyg4NQUIG-H0ru99uAEMaT85lWW7b] |
+|           | Chris Stauffer's [Report on Conference on Computer Vision and Pattern Recognition 2018](https://drive.google.com/open?id=1TGZKyg4NQUIG-H0ru99uAEMaT85lWW7b) |
 |           | Andy Webber: [Identifying data with gaps](https://github.com/andygwebber/Gap_project)                                                                      |
 | May 23    | [Hidden Markov Models ](https://github.com/seohara1955/Presentations/blob/master/Hidden%20Markov%20Models.pdf)                                              |
 | May 9     | [Attention-based Models.pptx](2018/05/Attention-based%20Models.pptx)                                                                                        |
