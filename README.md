@@ -7,7 +7,7 @@ For more information about the group, see the [Meetup page](https://www.meetup.c
 | *2018*    | Presentation files/links                                                                                                                                    |
 |-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Oct 17    | Gene's slides on [Potential of Machine Learning](2018/10/Poential%20of%20ML.pptx)                                                                           |
-|           | Gene's slides on [Self Driving Car Data Augmentation](2018/10/Self%20Driving%20Car%20Data%20Augmentation)                                                   |
+|           | Gene's slides on [Self Driving Car Data Augmentation](2018/10/Self%20Driving%20Car%20Data%20Augmentation.pptx)                                                   |
 | Oct 3     | Scott O'Hara's slides on [Towards Q-Learning](https://github.com/seohara1955/Presentations/blob/master/Q-learning.pdf)                                      |
 | Sept 12   | Scott O'Hara's slides on [Model-based reinforcement learning](https://github.com/seohara1955/Presentations/blob/master/Model-based%20RL.pdf)                |
 | August 29 | Scott O'Hara's slides on [Markov Decision Trees](https://github.com/seohara1955/Presentations/blob/master/Markov%20Decision%20Processes.pdf)                |
