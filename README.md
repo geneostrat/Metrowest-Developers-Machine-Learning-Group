@@ -6,6 +6,8 @@ For more information about the group, see the [Meetup page](https://www.meetup.c
 
 | *2018*    | Presentation files/links                                                                                                                                    |
 |-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Oct 17    | Gene's slides on [Potential of Machine Learning](2018/10/Poential%20of%20ML.pptx)                                                                           |
+|           | Gene's slides on [Self Driving Car Data Augmentation](2018/10/Self%20Driving%20Car%20Data%20Augmentation)                                                   |
 | Oct 3     | Scott O'Hara's slides on [Towards Q-Learning](https://github.com/seohara1955/Presentations/blob/master/Q-learning.pdf)                                      |
 | Sept 12   | Scott O'Hara's slides on [Model-based reinforcement learning](https://github.com/seohara1955/Presentations/blob/master/Model-based%20RL.pdf)                |
 | August 29 | Scott O'Hara's slides on [Markov Decision Trees](https://github.com/seohara1955/Presentations/blob/master/Markov%20Decision%20Processes.pdf)                |
@@ -13,7 +15,7 @@ For more information about the group, see the [Meetup page](https://www.meetup.c
 |           | Scott's [accompanying Jupyter notebook](https://github.com/seohara1955/Presentations/blob/master/Evaluating%20Classifiers.ipynb)                            |
 | July 11   | [Reinforcement Learning Q-Learning.pptx](2018/05/Reinforcement%20Learning%20Q-Learning.pptx)                                                                |
 |           | Chris Stauffer's [Report on Conference on Computer Vision and Pattern Recognition 2018](https://drive.google.com/open?id=1TGZKyg4NQUIG-H0ru99uAEMaT85lWW7b) |
-|           | Andy Webber: [Identifying data with gaps](https://github.com/andygwebber/Gap_project)                                                                      |
+|           | Andy Webber: [Identifying data with gaps](https://github.com/andygwebber/Gap_project)                                                                       |
 | May 23    | [Hidden Markov Models ](https://github.com/seohara1955/Presentations/blob/master/Hidden%20Markov%20Models.pdf)                                              |
 | May 9     | [Attention-based Models.pptx](2018/05/Attention-based%20Models.pptx)                                                                                        |
 |           | [Introduction to NLP.pptx](2018/05/Introduction%20to%20NLP.pptx)                                                                                            |
