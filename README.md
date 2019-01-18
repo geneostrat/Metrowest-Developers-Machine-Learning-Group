@@ -3,12 +3,16 @@ Collateral associated with meetings
 
 For more information about the group, see the [Meetup page](https://www.meetup.com/Natick-Artificial-Intelligence-Meetup/)
 
+| *2019*    | Presentation files/links                                                                                                                                    |
+|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Jan 2     | [Videos of the self-driving model car from Jan 2 and Dec 12 ](https://ibm.box.com/s/jkzxleqk1775stk1cyt2mi4jjeq7hy1u)                                                                                                                                                      |
 
+|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *2018*    | Presentation files/links                                                                                                                                    |
 |-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nov 14    | Gene's slides on [Self-Driving Model Lesson Learned](2018/11/Self-Driving%20Model%20Lesson%20Learned.pptx) |
-| Oct 17    | Gene's slides on [Potential of Machine Learning](2018/10/Potential%20of%20ML.pptx)                                                                           |
-|           | Gene's slides on [Self Driving Car Data Augmentation](2018/10/Self%20Driving%20Car%20Data%20Augmentation.pptx)                                                   |
+| Nov 14    | Gene's slides on [Self-Driving Model Lesson Learned](2018/11/Self-Driving%20Model%20Lesson%20Learned.pptx)                                                  |
+| Oct 17    | Gene's slides on [Potential of Machine Learning](2018/10/Potential%20of%20ML.pptx)                                                                          |
+|           | Gene's slides on [Self Driving Car Data Augmentation](2018/10/Self%20Driving%20Car%20Data%20Augmentation.pptx)                                              |
 | Oct 3     | Scott O'Hara's slides on [Towards Q-Learning](https://github.com/seohara1955/Presentations/blob/master/Q-learning.pdf)                                      |
 | Sept 12   | Scott O'Hara's slides on [Model-based reinforcement learning](https://github.com/seohara1955/Presentations/blob/master/Model-based%20RL.pdf)                |
 | August 29 | Scott O'Hara's slides on [Markov Decision Trees](https://github.com/seohara1955/Presentations/blob/master/Markov%20Decision%20Processes.pdf)                |
