@@ -3,11 +3,10 @@ Collateral associated with meetings
 
 For more information about the group, see the [Meetup page](https://www.meetup.com/Natick-Artificial-Intelligence-Meetup/)
 
-| *2019*    | Presentation files/links                                                                                                                                    |
-|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Jan 2     | [Videos of the self-driving model car from Jan 2 and Dec 12 ](https://ibm.box.com/s/jkzxleqk1775stk1cyt2mi4jjeq7hy1u)                                                                                                                                                      |
+| *2019* | Presentation files/links                                                                                              |
+|--------|-----------------------------------------------------------------------------------------------------------------------|
+| Jan 2  | [Videos of the self-driving model car from Jan 2 and Dec 12 ](https://ibm.box.com/s/jkzxleqk1775stk1cyt2mi4jjeq7hy1u) |
 
-|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *2018*    | Presentation files/links                                                                                                                                    |
 |-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Nov 14    | Gene's slides on [Self-Driving Model Lesson Learned](2018/11/Self-Driving%20Model%20Lesson%20Learned.pptx)                                                  |
