@@ -1,0 +1,5 @@
+
+
+python3 crawlerTrain.py
+
+python3 crawlerTrain.py -l 08 -d 0.9 -e 0.8

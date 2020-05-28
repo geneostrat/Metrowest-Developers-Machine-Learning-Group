@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Spyder files
+.spyproject/
+
+# Jupyter Notebook
+.ipynb_checkpoints
